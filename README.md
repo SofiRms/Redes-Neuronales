@@ -1,5 +1,5 @@
 # Redes-Neuronales
-Repositorio para el curso de redes neuronales
+Proyecto de Python y TensorFlow, uso de red neuronal convolucional - Modelo para clasificación de imágenes - Categorías "perro" y "gato" con 
 
 ![TensorFlow-Python](/images/TensorFlow-Python.png)
 
