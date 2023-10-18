@@ -1,7 +1,7 @@
 # Redes-Neuronales
 Repositorio para el curso de redes neuronales
 
-![TensorFlow-Python](TensorFlow-Python.png)
+![TensorFlow-Python](/images/TensorFlow-Python.png)
 
 
 ## Como usar:
