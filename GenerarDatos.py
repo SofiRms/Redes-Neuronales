@@ -86,7 +86,7 @@ def Generar_datos():
     print("Archivo y.pickle creado!")
 
 # Definir la ruta al directorio con las imágenes
-DATADIR = "C:\\Users\\kazp_\\PycharmProjects\\Redes-Neuronales\\PetImages"
+DATADIR = "C:\\Users\\Usuario\\Desktop\\Redes-Redes-Neuronales\\Images"
 
 # Llamar a la función para generar el conjunto de datos
 if __name__ == "__main__":

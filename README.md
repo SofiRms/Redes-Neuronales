@@ -1,6 +1,9 @@
 # Redes-Neuronales
 Repositorio para el curso de redes neuronales
 
+![TensorFlow-Python](TensorFlow-Python.png)
+
+
 ## Como usar:
 Descarga el codigo haciendo uso de `git clone https://github.com/SofiRms/Redes-Neuronales.git`
 

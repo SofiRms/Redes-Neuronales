@@ -32,7 +32,7 @@ def predecir():
     #carga el modelo
     pred = tf.keras.models.load_model("models/RedConv-n128-cl2-d2-dropout0")
     #categoriza la imagen
-    print(CATEGORIAS[int(pred.predict([prepare('rex.jpg')])[0][0])])
+    print(CATEGORIAS[int(pred.predict([prepare('/rex.jpg')])[0][0])])
 
 # Entrena red neuronal convolucional
 def entrenar():
