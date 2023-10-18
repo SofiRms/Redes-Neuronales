@@ -6,7 +6,6 @@ Descarga el codigo haciendo uso de `git clone https://github.com/Codificados/Red
 instalar **git** antes de eso, o puedes presionar en la opcion de descargar como zip desde la web.
 
 ## Librerias:
-1. Ve a la carpeta donde tengas el codigo
-2. Abre la linea de comandos
-3. Escribe `pip install -r requirements.txt`
-4. Listo todas las librerias se instalaran! 
+1. Acceder al directorio del proyecto
+2. Ejecutar comando: `pip install -r requirements.txt`
+3. Librerias instaladas! 
