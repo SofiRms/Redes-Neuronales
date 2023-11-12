@@ -1,4 +1,4 @@
-![imagen](https://github.com/SofiRms/Redes-Neuronales/assets/108481096/f2cfa9d0-a193-4cfa-bac0-62e111f62d3c)# Redes-Neuronales
+# Redes-Neuronales
 Proyecto de Python y TensorFlow, uso de red neuronal convolucional - Modelo para clasificación de imágenes - Categorías "perro" y "gato" 
 
 ![TensorFlow-Python](/images/TensorFlow-Python.png)
@@ -19,8 +19,9 @@ Descargar el codigo haciendo uso de `git clone https://github.com/SofiRms/Redes-
 
 6. Ejecutar comando para generación de datos de entrenamiento y testing
  ```shell
-
 python GenerarDatos.py
-
 ```
 5. Ejecutar modelo
+ ```shell
+python RedConv.py
+```
