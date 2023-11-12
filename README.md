@@ -14,8 +14,8 @@ Descargar el codigo haciendo uso de `git clone https://github.com/SofiRms/Redes-
  ```shell
   `pip install -r requirements.txt`
 ```
-5. Reemplazar directorio de imagen para predicción
-   [Uploading imagen.png…]()
+5. Reemplazar directorio de imagen para predicción, en DATADIR de archivo GenerarDatos.py, con imagen deseada
+ 
 
 6. Ejecutar comando para generación de datos de entrenamiento y testing
  ```shell
